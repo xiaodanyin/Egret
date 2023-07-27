@@ -1,0 +1,7 @@
+outputs/*
+dataset/*
+!*.keep
+*.pyc
+preprocess_script/reaxys_data/rxn_classification
+.vscode
+__pycache__
