@@ -1,7 +1,8 @@
 outputs/*
-dataset/*
+dataset/pretrain_data/*
+preprocess_script/reaxys_data/rxn_classification
 !*.keep
 *.pyc
-preprocess_script/reaxys_data/rxn_classification
 .vscode
+*.tsv
 __pycache__
