@@ -15,4 +15,4 @@ conda env create -f envs.yaml
 conda activate egret_env
 ```
 ## Download
-The datasets and models can be downloaded from the following link: https://drive.google.com/file/d/1lSo5kSWzrnIp3koK-ZRaWdNb0IvYQuL3/view?usp=sharing.
+The models and datasets can be downloaded from the following link: https://drive.google.com/file/d/1lSo5kSWzrnIp3koK-ZRaWdNb0IvYQuL3/view?usp=sharing.
