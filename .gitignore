@@ -5,4 +5,5 @@ preprocess_script/reaxys_data/rxn_classification
 *.pyc
 .vscode
 *.tsv
+*.csv
 __pycache__
