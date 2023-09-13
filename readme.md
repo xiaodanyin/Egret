@@ -33,8 +33,8 @@ conda activate egret_env
 The **models** and **datasets** can be downloaded from the following link: https://drive.google.com/file/d/1K_EVByx5Vul5HuO3z_tWiVwVm37_jxPa/view?usp=sharing.
 
 ## Use Egret
-You can use Egret to predict yields or  yield intervals for reactions. <br>
-**First** download the yield prediction model from the following link: https://drive.google.com/file/d/1h1ESPMtfEZaUosq6U64vUFB3pmttJChK/view?usp=sharing.<br>
+You can use Egret to predict yields or  yield intervals for chemical reactions. <br>
+**First** download the yield prediction model (https://drive.google.com/file/d/1MNzGyMYtNDt-TshKtsJkEEjHGtXTJhLN/view?usp=sharing) and place it under the "yield_prediction_model" folder. <br>
 **Then** prepare the txt file containing the SMILES of the reaction you want to predict, and enter the following command:<br>
 ```
 cd inference
