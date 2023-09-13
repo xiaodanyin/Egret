@@ -1,0 +1,2 @@
+CC(O)c1ccccc1.CC1(C)CCCC(C)(C)N1[O].CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+].O.[Li+].[OH-].O=Ic1ccccc1.[Br-].[K+]>>CC(=O)c1ccccc1
+CC(C)(C)OO.CCCCCCCCCC.ClCCl.OCc1ccccc1>>O=Cc1ccccc1
