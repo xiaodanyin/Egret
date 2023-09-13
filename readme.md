@@ -8,7 +8,6 @@ Enhancing Generic Reaction Yield Prediction through Reaction Condition-Based Con
 - [Python Dependencies](#python-dependencies)
 - [Installation Guide](#installation-guide)
 - [Use Egret](#use-egret)
-    - [Command](#command)
 
 ## OS Requirements
 This repository has been tested on **Linux**  operating systems.
@@ -36,8 +35,6 @@ The **models** and **datasets** can be downloaded from the following link: https
 ## Use Egret
 You can use Egret to predict yields or  yield intervals for reactions. <br>
 **First** download the yield prediction model from the following link: https://drive.google.com/file/d/1h1ESPMtfEZaUosq6U64vUFB3pmttJChK/view?usp=sharing.<br>
-
-### Command
 **Then** prepare the txt file containing the SMILES of the reaction you want to predict, and enter the following command:<br>
 ```
 cd inference
