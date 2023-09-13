@@ -7,4 +7,5 @@ inference/yield_prediction_model
 .vscode
 *.tsv
 *.csv
+*.zip
 __pycache__
