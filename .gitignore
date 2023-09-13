@@ -1,6 +1,7 @@
 outputs/*
 dataset/pretrain_data/*
 preprocess_script/reaxys_data/rxn_classification
+inference/yield_regression_model
 !*.keep
 *.pyc
 .vscode
