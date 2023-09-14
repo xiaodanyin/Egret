@@ -39,7 +39,7 @@ cd inference
 python yield_predict.py --input_path path/to/input_file.txt \
                         --output_path path/to/output.csv \
 ```
-For example, using Egret trained on Reaxys-MultiCondi-Yield dataset, use the following command:<br>
+For example, by using the following command, you can obtain the predicted yield values or intervals for chemical reactions in the "input_demo.txt" file.<br>
 ```
 cd inference
 python yield_predict.py --input_path test_files/input_demo.txt \
