@@ -1,7 +1,7 @@
 # Egret
 Enhancing Generic Reaction Yield Prediction through Reaction Condition-Based Contrastive Learning
 
-![Egret](./dataset/model_framework.png)
+![Egret](./dataset/model_framework_.png)
 
 ## Contents
 - [OS Requirements](#os-requirements)
